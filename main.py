@@ -7,7 +7,7 @@ from pygame import mixer
 
 #for playing background music
 mixer.init()
-mixer.music.load('bg.mp3')
+mixer.music.load('Background music.mp3')
 mixer.music.play()
 
 
